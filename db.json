@@ -1,34 +1,28 @@
 {
-  "usuarios": [
+  "tasks": [
     {
-      "id": "1759195086015",
-      "author": "Rosenda Soria",
-      "text": "Configurar entorno de desarrollo React",
+      "id": "1859201111001",
+      "author": "Ashly",
+      "text": "Avanzar documentación del proyecto",
+      "completed": false
+    },
+    {
+      "id": "1859201111002",
+      "author": "Danna",
+      "text": "Organizar habitación",
       "completed": true
     },
     {
-      "id": "1759195173717",
-      "author": "Aitor Elías",
-      "text": "Diseñar interfaz de usuario (wireframes)",
+      "id": "1859201111003",
+      "author": "Ashly",
+      "text": "Entregar trabajo de React",
       "completed": false
     },
     {
-      "id": "1759196270769",
-      "author": "Rosenda Soria",
-      "text": "Implementar lógica de filtrado de tareas",
+      "id": "1859201111004",
+      "author": "Danna",
+      "text": "Comprar materiales de estudio",
       "completed": true
-    },
-    {
-      "id": "1759198318059",
-      "author": "Aitor Elías",
-      "text": "Crear documentación técnica de la API",
-      "completed": false
-    },
-    {
-      "id": "1759199000000",
-      "author": "Marianela Pascual",
-      "text": "Optimizar consultas de la base de datos",
-      "completed": false
     }
   ]
 }
